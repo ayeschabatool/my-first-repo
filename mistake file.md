@@ -1,0 +1,7 @@
+# Create the heading
+## Work on subheading
+
+**the quick brown fox jumps over the fence**
+
+-i am happy with this preview and create  a commit now
+-iloveit
